@@ -31,6 +31,10 @@ A Python/PySide6 floating timer for Windows 10 and Windows 11. It features a tra
 
 Make sure the `dependencies` folder remains in the expected project directory.
 
+## Dependencies and miscellaneous.md are regularly being and developed and updated
+
+Check for updates. 
+
 ## Installation
 
 Open Command Prompt or PowerShell inside the project folder.
